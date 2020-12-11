@@ -1,0 +1,32 @@
+.main {
+  // max-width: 1280px;
+  // margin: 0 auto;
+
+  .movies-counter {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+
+.main-content {
+  padding: 0 30px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.movies-cards {
+  display:  flex;
+  flex-wrap: wrap;
+ 
+  margin: 0 auto;
+
+
+  .movie-card {
+    margin-right: 60px;
+    max-width: calc((100% - 120px) / 3);
+
+    &:nth-child(3n) {
+      margin-right: 0;
+    }
+  }
+}

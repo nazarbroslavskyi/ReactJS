@@ -1,0 +1,19 @@
+$background-color: #f65261;
+$text-color: #fff;
+
+.button {
+  align-items: center;
+  background-color: $background-color;
+  border: 0;
+  border-radius: 4px;
+  color: $text-color;
+  display: flex;
+  font-size: 21px;
+  justify-content: center;
+  padding: 15px 78px;
+  text-transform: uppercase;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
