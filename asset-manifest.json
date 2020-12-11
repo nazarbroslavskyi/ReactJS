@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nazarbroslavskyi/ReactJS/module_3/static/css/main.c2f8616d.chunk.css",
-    "main.js": "/nazarbroslavskyi/ReactJS/module_3/static/js/main.2567a090.chunk.js",
-    "main.js.map": "/nazarbroslavskyi/ReactJS/module_3/static/js/main.2567a090.chunk.js.map",
-    "runtime-main.js": "/nazarbroslavskyi/ReactJS/module_3/static/js/runtime-main.e7fffeeb.js",
-    "runtime-main.js.map": "/nazarbroslavskyi/ReactJS/module_3/static/js/runtime-main.e7fffeeb.js.map",
-    "static/js/2.fd6cf8a2.chunk.js": "/nazarbroslavskyi/ReactJS/module_3/static/js/2.fd6cf8a2.chunk.js",
-    "static/js/2.fd6cf8a2.chunk.js.map": "/nazarbroslavskyi/ReactJS/module_3/static/js/2.fd6cf8a2.chunk.js.map",
-    "static/js/3.878e271c.chunk.js": "/nazarbroslavskyi/ReactJS/module_3/static/js/3.878e271c.chunk.js",
-    "static/js/3.878e271c.chunk.js.map": "/nazarbroslavskyi/ReactJS/module_3/static/js/3.878e271c.chunk.js.map",
-    "index.html": "/nazarbroslavskyi/ReactJS/module_3/index.html",
-    "static/css/main.c2f8616d.chunk.css.map": "/nazarbroslavskyi/ReactJS/module_3/static/css/main.c2f8616d.chunk.css.map",
-    "static/js/2.fd6cf8a2.chunk.js.LICENSE.txt": "/nazarbroslavskyi/ReactJS/module_3/static/js/2.fd6cf8a2.chunk.js.LICENSE.txt",
-    "static/media/header-back.a3b63561.jpg": "/nazarbroslavskyi/ReactJS/module_3/static/media/header-back.a3b63561.jpg"
+    "main.css": "/nazarbroslavskyi/ReactJS/static/css/main.c2f8616d.chunk.css",
+    "main.js": "/nazarbroslavskyi/ReactJS/static/js/main.2567a090.chunk.js",
+    "main.js.map": "/nazarbroslavskyi/ReactJS/static/js/main.2567a090.chunk.js.map",
+    "runtime-main.js": "/nazarbroslavskyi/ReactJS/static/js/runtime-main.2f1c9d53.js",
+    "runtime-main.js.map": "/nazarbroslavskyi/ReactJS/static/js/runtime-main.2f1c9d53.js.map",
+    "static/js/2.fd6cf8a2.chunk.js": "/nazarbroslavskyi/ReactJS/static/js/2.fd6cf8a2.chunk.js",
+    "static/js/2.fd6cf8a2.chunk.js.map": "/nazarbroslavskyi/ReactJS/static/js/2.fd6cf8a2.chunk.js.map",
+    "static/js/3.878e271c.chunk.js": "/nazarbroslavskyi/ReactJS/static/js/3.878e271c.chunk.js",
+    "static/js/3.878e271c.chunk.js.map": "/nazarbroslavskyi/ReactJS/static/js/3.878e271c.chunk.js.map",
+    "index.html": "/nazarbroslavskyi/ReactJS/index.html",
+    "static/css/main.c2f8616d.chunk.css.map": "/nazarbroslavskyi/ReactJS/static/css/main.c2f8616d.chunk.css.map",
+    "static/js/2.fd6cf8a2.chunk.js.LICENSE.txt": "/nazarbroslavskyi/ReactJS/static/js/2.fd6cf8a2.chunk.js.LICENSE.txt",
+    "static/media/header-back.a3b63561.jpg": "/nazarbroslavskyi/ReactJS/static/media/header-back.a3b63561.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7fffeeb.js",
+    "static/js/runtime-main.2f1c9d53.js",
     "static/js/2.fd6cf8a2.chunk.js",
     "static/css/main.c2f8616d.chunk.css",
     "static/js/main.2567a090.chunk.js"
